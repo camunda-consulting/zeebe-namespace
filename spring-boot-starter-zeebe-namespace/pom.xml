@@ -21,8 +21,8 @@
         <version.plugin.dependency>3.6.0</version.plugin.dependency>
         <version.plugin.release>3.0.1</version.plugin.release>
         <!-- libs -->
-        <version.springboot>3.1.0</version.springboot>
-        <version.zeebe.starter>8.2.2</version.zeebe.starter>
+        <version.springboot>3.2.2</version.springboot>
+        <version.zeebe.starter>8.4.2</version.zeebe.starter>
     </properties>
     <dependencies>
         <dependency>
